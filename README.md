@@ -1,4 +1,7 @@
-# Ai-assister-fp_tracker
+-fp_tracker
+
+This code was made by @oxccb5 for Aiassister llm program
+
 Track NFT floor prices and activity to help users make informed decisions on whether a particular NFT is a good deal or not.
 import requests
 import json
